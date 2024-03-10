@@ -4,7 +4,7 @@ resume using html
   <img src="abhi.jpeg" alt="abhishek pandey">
     <h1>abhishek kumar pandey</h1>
     <p> founder of xyz</p>
-    <p>i love wweb devlopment </p>
+    <p>i love web devlopment </p>
     <h2>eduction</h2>
 
     <table border="">
